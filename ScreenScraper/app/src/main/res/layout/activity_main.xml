@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="12">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingTop="@dimen/bottom_menu_padding"
+            android:paddingBottom="@dimen/bottom_menu_padding"
+            android:orientation="horizontal"
+            android:background="@color/bannerbackgroundcolour"
+            >
+
+            <ImageView
+                android:id="@+id/textViewImageBanner"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal|center_vertical"
+                android:src="@drawable/sainsburyslogo"
+                />
+
+        </LinearLayout>
+
+        <ListView
+            android:id="@+id/listViewGooglePlacesResponse"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="9">
+
+        </ListView>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:background="@color/bannerbackgroundcolour"
+        >
+
+            <TextView
+            android:id="@+id/textViewTotalCost"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:paddingLeft="@dimen/bottom_menu_padding"
+            android:textSize="@dimen/bottom_menu_text_size"
+            android:text="@string/total_cost"
+            android:textColor="@color/bannertextcolour"
+            />
+
+    </LinearLayout>
+
+</RelativeLayout>

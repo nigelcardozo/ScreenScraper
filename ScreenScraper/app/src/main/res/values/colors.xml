@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="bannertextcolour" type="color">#FFFFFF</item>
+    <item name="bannerbackgroundcolour" type="color">#4d0627</item>
+    <item name="bannerbottom" type="color">#0C293C</item>
+    <item name="business_open" type="color">#38c429</item>
+    <item name="business_closed" type="color">#cc0000</item>
+
+</resources> 

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-5e8b5684854cb1cace6337475753a7137dcab1b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\build\intermediates\exploded-aar\ScreenScraper\Volley\unspecified\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5eb325bfc8839cbe28695a0709fbbbd340f6f748">
+        <dex dex="C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\build\intermediates\pre-dexed\debug\classes-9bce1c0f6f0ba5643495757407bfe0319420035d.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\TestDir\WeatherAppDemo\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\nigel\Code\TestDir\WeatherAppDemo\app\build\intermediates\pre-dexed\debug\classes-9d3ba30e1dc3d7978aac119c378b78dd4c7f3987.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\build\intermediates\pre-dexed\debug\classes-6e0e45aa3830b707d68f939c23c23c553d8d5f50.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\TestDir\WeatherAppDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\nigel\Code\TestDir\WeatherAppDemo\app\build\intermediates\pre-dexed\debug\classes-5d653cd6b16aa78b5f7f9872cdefab8396fe94b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\Yell\NearMe\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\nigel\Code\Yell\NearMe\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-0b567ab484c06b74f819f0698f783d9e99032746.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Documents\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\Users\nigel\Code\TestDir\WeatherAppDemo\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0-73ae211fa78f17dabde954689e04b3421064bcd3.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\Yell\NearMe\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\nigel\Code\Yell\NearMe\app\build\intermediates\pre-dexed\debug\classes-4f9d5feeb2cba551d30e2c5af943881d7d88d1c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\build\intermediates\pre-dexed\debug\classes-c2a59819880f5402b9653632eec3333c454650b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\Sainsburys\ScreenScraper\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\nigel\Code\Sainsburys\ScreenScraper\app\build\intermediates\pre-dexed\debug\classes-6f4ed1f47b8a4a9a142cf21ad86f6d4735dd2a60.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\TestDir\WeatherAppDemo\app\build\intermediates\exploded-aar\WeatherAppDemo\Volley\unspecified\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b39fd34349e58c7b3cfe3a9a2f4e7561bb27805a">
+        <dex dex="C:\Users\nigel\Code\TestDir\WeatherAppDemo\app\build\intermediates\pre-dexed\debug\classes-3a969fdb746e88dc961fed2854de683a8f4b7703.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\Sainsburys\ScreenScraper\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\nigel\Code\Sainsburys\ScreenScraper\app\build\intermediates\pre-dexed\debug\classes-f52841e7cff16e91d6b9ddfcda5843de9e72701d.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\Sainsburys\ScreenScraper\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\nigel\Code\Sainsburys\ScreenScraper\app\build\intermediates\pre-dexed\debug\classes-abd8df0437f366c311520db5b2c19056a3c5173b.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Documents\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="C:\Users\nigel\Code\TestDir\WeatherAppDemo\app\build\intermediates\pre-dexed\debug\gson-2.5-b7418de33a09ea381a7a0b987563b4ad3c23529f.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\TestDir\WeatherAppDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\nigel\Code\TestDir\WeatherAppDemo\app\build\intermediates\pre-dexed\debug\classes-de3a3fb71ff5f11870dcaea55b54a27106f3d2b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Documents\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\nigel\Code\Sainsburys\ScreenScraper\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-3503a8f8dd7bfcce1d76aace4b2cffc82702c4aa.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\libs\gson-2.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\build\intermediates\pre-dexed\debug\gson-2.5-6bcb69fef36abe4692c9629ad54acd6145b255d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\build\intermediates\pre-dexed\debug\classes-55eb45448396330d5242ec78a92deafa869c3e25.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Documents\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\nigel\Code\TestDir\WeatherAppDemo\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-c31f9f9e158355642587861913df127b35ff68de.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\TestDir\WeatherAppDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\nigel\Code\TestDir\WeatherAppDemo\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-08ddb57734fe7eb6e617d374d1bdd7f57d5e4f61.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Documents\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.8.3\65fd012581ded67bc20945d85c32b4598c3a9cf1\jsoup-1.8.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="65fd012581ded67bc20945d85c32b4598c3a9cf1">
+        <dex dex="C:\Users\nigel\Code\Sainsburys\ScreenScraper\app\build\intermediates\pre-dexed\debug\jsoup-1.8.3-7ad93b6f6e1afb6c50afb349c54008840ebd4b4f.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\Yell\NearMe\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\nigel\Code\Yell\NearMe\app\build\intermediates\pre-dexed\debug\classes-f08daa83f8217a36f159ef10646aee84de340b22.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\Yell\NearMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\nigel\Code\Yell\NearMe\app\build\intermediates\pre-dexed\debug\classes-c744a98b0a0b95d46c012085ec8c6f1823b506fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\Sainsburys\ScreenScraper\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\nigel\Code\Sainsburys\ScreenScraper\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-6d899faec8fdd573706d68a9257bee9b9d38c377.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\TestDir\WeatherAppDemo\app\build\intermediates\exploded-aar\WeatherAppDemo\Volley\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="88963069d7d8a0dbd6969359e84809ede8fedf1c">
+        <dex dex="C:\Users\nigel\Code\TestDir\WeatherAppDemo\app\build\intermediates\pre-dexed\debug\classes-3a969fdb746e88dc961fed2854de683a8f4b7703.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\Yell\NearMe\app\libs\gson-2.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="C:\Users\nigel\Code\Yell\NearMe\app\build\intermediates\pre-dexed\debug\gson-2.5-a4af9360a9b4f4f85fc561d2eb30fa6714744e4c.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\Yell\NearMe\app\build\intermediates\exploded-aar\NearMe\Volley\unspecified\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="eb6df3222375412dcba8737e3bec058bf8c0ec59">
+        <dex dex="C:\Users\nigel\Code\Yell\NearMe\app\build\intermediates\pre-dexed\debug\classes-89c2935435e48a0556786b3bf61f6f8d1275599d.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\Sainsburys\ScreenScraper\app\libs\gson-2.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="C:\Users\nigel\Code\Sainsburys\ScreenScraper\app\build\intermediates\pre-dexed\debug\gson-2.5-95e4c3aac0cede63ca26ca6a9f460b87a93d64a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\Sainsburys\ScreenScraper\app\build\intermediates\exploded-aar\ScreenScraper\Volley\unspecified\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fa2efb3e08cd23b6b5affcc7000481ae419a9fa6">
+        <dex dex="C:\Users\nigel\Code\Sainsburys\ScreenScraper\app\build\intermediates\pre-dexed\debug\classes-d51d37a3cbfd3214f31813559241d7ffe8c6fe1a.jar" />
+    </item>
+
+</items>
