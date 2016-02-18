@@ -7,6 +7,11 @@ The app doesn't fully handle all error cases, it's simply a proof of concept. Ad
 Please note that after syncing you will need to download Volley:
 
 1) git clone https://android.googlesource.com/platform/frameworks/volley 
+
 2) From Android Studio - File, Import Module, select the location where you cloned Volley 
+
 3) From Android Studio - Edit build.gradle (app) and add the line: compile project(':Volley') 
-4) Clean and rebuild
+
+4) Sync
+
+5) Clean and rebuild
