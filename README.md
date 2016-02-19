@@ -10,8 +10,10 @@ Please note that after syncing you will need to download Volley:
 
 2) From Android Studio - File, Import Module, select the location where you cloned Volley 
 
-3) From Android Studio - Edit build.gradle (app) and add the line: compile project(':Volley') 
+3) You may be asked if you wish to add certain XML files to 'Git'. Say no.
 
-4) Sync
+4) From Android Studio - Edit build.gradle (app) and add the line: compile project(':Volley') 
 
-5) Clean and rebuild
+5) Click 'Sync Now'
+
+6) Clean and rebuild
