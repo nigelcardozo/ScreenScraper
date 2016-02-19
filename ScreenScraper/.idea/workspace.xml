@@ -1799,7 +1799,7 @@
     <property name="recentsLimit" value="5" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="42f18901fd895fc7" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Git/Test/ScreenScraper/ScreenScraper" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Git/Test/SS2/ScreenScraper" />
   </component>
   <component name="RecentsManager">
     <key name="android.template.packageName">
