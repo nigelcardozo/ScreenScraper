@@ -12,7 +12,7 @@
         jar="C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\build\intermediates\exploded-aar\ScreenScraper\Volley\unspecified\classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="dcc5c6cc0353960f98b1f7a1d2763867405255eb">
+        sha1="b8097d9226670cae9376b66659e36bc81acab85b">
         <dex dex="C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\build\intermediates\pre-dexed\debug\classes-9bce1c0f6f0ba5643495757407bfe0319420035d.jar" />
     </item>
     <item
@@ -72,18 +72,18 @@
         <dex dex="C:\Users\nigel\Code\Sainsburys\ScreenScraper\app\build\intermediates\pre-dexed\debug\classes-abd8df0437f366c311520db5b2c19056a3c5173b.jar" />
     </item>
     <item
-        jar="C:\Users\nigel\Documents\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
-        <dex dex="C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\build\intermediates\pre-dexed\debug\gson-2.5-b7418de33a09ea381a7a0b987563b4ad3c23529f.jar" />
-    </item>
-    <item
         jar="C:\Users\nigel\Documents\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
         <dex dex="C:\Users\nigel\Code\Sainsburys\ScreenScraper\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-3503a8f8dd7bfcce1d76aace4b2cffc82702c4aa.jar" />
+    </item>
+    <item
+        jar="C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\libs\gson-2.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\build\intermediates\pre-dexed\debug\gson-2.5-6bcb69fef36abe4692c9629ad54acd6145b255d1.jar" />
     </item>
     <item
         jar="C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\classes.jar"

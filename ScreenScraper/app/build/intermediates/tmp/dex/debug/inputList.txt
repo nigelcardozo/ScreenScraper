@@ -1,0 +1,11 @@
+C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\build\intermediates\classes\debug
+C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-c31f9f9e158355642587861913df127b35ff68de.jar
+C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0-73ae211fa78f17dabde954689e04b3421064bcd3.jar
+C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\build\intermediates\pre-dexed\debug\classes-9bce1c0f6f0ba5643495757407bfe0319420035d.jar
+C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-3503a8f8dd7bfcce1d76aace4b2cffc82702c4aa.jar
+C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\build\intermediates\pre-dexed\debug\gson-2.5-6bcb69fef36abe4692c9629ad54acd6145b255d1.jar
+C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-5e8b5684854cb1cace6337475753a7137dcab1b9.jar
+C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\build\intermediates\pre-dexed\debug\jsoup-1.8.3-7ad93b6f6e1afb6c50afb349c54008840ebd4b4f.jar
+C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\build\intermediates\pre-dexed\debug\classes-6e0e45aa3830b707d68f939c23c23c553d8d5f50.jar
+C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\build\intermediates\pre-dexed\debug\classes-55eb45448396330d5242ec78a92deafa869c3e25.jar
+C:\Users\nigel\Code\Github\ScreenScraper\ScreenScraper\app\build\intermediates\pre-dexed\debug\classes-c2a59819880f5402b9653632eec3333c454650b2.jar
