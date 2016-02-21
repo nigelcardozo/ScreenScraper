@@ -6,12 +6,20 @@ The app doesn't fully handle all error cases, it's simply a proof of concept. Ad
 
 Please note that after syncing you will need to download Volley:
 
-1) git clone https://android.googlesource.com/platform/frameworks/volley 
+1) Clone this project
 
-2) From Android Studio - File, Import Module, select the location where you cloned Volley 
+2) Open Android Studio, then choose to open an existing Android Studio project and select the location where you've cloned this repo.
 
-3) From Android Studio - Edit build.gradle (app) and add the line: compile project(':Volley') 
+3) Android studio will attempt to build and may give you an error. This is due to the fact that I cannot redistribute Volley.
 
-4) Sync
+4) git clone https://android.googlesource.com/platform/frameworks/volley 
 
-5) Clean and rebuild
+5) From Android Studio - File, Import Module, select the location where you cloned Volley 
+
+6) You may be asked if you wish to add certain XML files to 'Git'. Say no.
+
+7) From Android Studio - Edit build.gradle (app) and add the line: compile project(':Volley') 
+
+8) Click 'Sync Now'
+
+9) Clean and rebuild
