@@ -19,7 +19,7 @@ public class MainActivity extends Activity {
     private static String LOG_TAG = "MAIN_ACTIVITY";
     private static final String MESSAGE_PRODUCT_RETRIEVED_TAG = "ProductsRetrieved";
     private static final String MESSAGE_PRODUCT_NO_DATA_RECEIVED = "ProductsNoDataReceived";
-    private static final int ERROR_NO_DATA_RECEIVED = 2;
+    private static final int ERROR_NO_DATA_RECEIVED = 1;
     private boolean bFirstLoad = false;
 
     private Controller controller;
@@ -137,7 +137,7 @@ public class MainActivity extends Activity {
             AlertDialog alertDialog = new AlertDialog.Builder(MainActivity.this).create();
             alertDialog.setTitle(getString(R.string.error_title));
             alertDialog.setMessage(errorString);
-            alertDialog.setButton(AlertDialog.BUTTON_NEUTRAL, "OK",
+            alertDialog.setButton(AlertDialog.BUTTON_NEUTRAL, getString(R.string.dialog_box_button_ok),
                     new DialogInterface.OnClickListener() {
                         public void onClick(DialogInterface dialog, int which) {
                             dialog.dismiss();

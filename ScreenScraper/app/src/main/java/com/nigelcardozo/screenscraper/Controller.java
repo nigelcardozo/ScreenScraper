@@ -13,7 +13,7 @@ import com.nigelcardozo.screenscraper.model.ProductList;
 public class Controller extends Application{
 
     private ProductDataModel productDataModel;
-    private static Controller controllerInstance;
+    private static Controller controllerInstance = null;
 
     public static Controller getControllerInstance(Context context)
     {
