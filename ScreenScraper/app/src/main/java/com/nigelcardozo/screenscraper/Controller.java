@@ -32,7 +32,7 @@ public class Controller extends Application{
 
     public void requestData()
     {
-        //Causes PlacesDataModel to retrieve new data
+        //Causes ProductDataModel to retrieve new data.
         productDataModel.requestData();
     }
 
